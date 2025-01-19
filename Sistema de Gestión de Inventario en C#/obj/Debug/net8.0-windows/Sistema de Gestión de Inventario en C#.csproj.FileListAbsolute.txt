@@ -1,0 +1,86 @@
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.exe
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.deps.json
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.runtimeconfig.json
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.pdb
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema_de_Gestión_de_Inventario_en_C_.Form1.resources
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.AssemblyInfo.cs
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\refint\Sistema de Gestión de Inventario en C#.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.pdb
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.genruntimeconfig.cache
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\ref\Sistema de Gestión de Inventario en C#.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema_de_Gestión_de_Inventario_en_C_.ModificarProducto.resources
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema de Gestión de Inventario en C#.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema .E13343B8.Up2Date
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema_de_Gestión_de_Inventario_en_C_.Consultas.resources
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema_de_Gestión_de_Inventario_en_C_.Reportes.resources
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\obj\Debug\net8.0-windows\Sistema_de_Gestión_de_Inventario_en_C_.Gestion.resources
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nikol\source\repos\Sistema de Gestión de Inventario en C#\Sistema de Gestión de Inventario en C#\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
